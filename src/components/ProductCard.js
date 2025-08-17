@@ -1,5 +1,5 @@
 import React from "react";
-import { formatVND } from "../lib/currency";
+import { formatVND } from "../lib/currency.js";
 
 export default function ProductCard({ product }) {
   return (
